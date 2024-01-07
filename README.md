@@ -25,7 +25,7 @@ Game key instructions can be found after the story slides:
 \
 Go through the rooms of the hotel and fight all the enemies!: 
 \
-<img src="GameShots/GamePlay.png" alt="drawing" width="300"/>
+<img src="GameShots/GamePlay.png" alt="drawing" width="800"/>
 \
 If you don't make it: \
 <img src="GameShots/LoseScreen.png" alt="drawing" width="300"/>
