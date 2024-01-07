@@ -6,6 +6,7 @@ Project Members: Anthony, Clara, Joey, Harishan, Marco
 ## Description
 
 This group project is a roguelike game. Players play as our hero, a rat, trying to get through a enemy-filled hotel in order to reach the Chosen Cheese!
+The challenge of the project was to use a grid-based system for the game, which was implemented into the floor generation and obstacle mapping. The game was also practice of Java programming and object oriented programming.
 
 ## Installation
 
