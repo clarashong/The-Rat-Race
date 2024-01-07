@@ -27,7 +27,7 @@ Go through the rooms of the hotel and fight all the enemies!:
 <img src="GameShots/GamePlay.png" alt="drawing" width="300"/>
 \
 If you don't make it: \
-<img src="GameShots/Lose.png" alt="drawing" width="300"/>
+<img src="GameShots/LoseScreen.png" alt="drawing" width="300"/>
 
 
 ## Image and Sound Credits: 
