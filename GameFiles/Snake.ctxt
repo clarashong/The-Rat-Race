@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\n\ A\ snake\ enemy\ that\ moves\ around\ the\ room\ randomly.\ \n\ Damage\ will\ be\ done\ on\ contact.\n\ \n\ @author\ Marco\ Luong\n
+comment1.params=hp\ spd\ atkDmg
+comment1.target=Snake(int,\ int,\ double)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ Method\ for\ Snake\n
+comment3.params=
+comment3.target=void\ randomMovement()
+comment3.text=\n\ Changes\ the\ snake's\ direction\ of\ movement.\ \n\ Ensures\ that\ the\ snake\ doesn't\ keep\ moving\ L/R\ &\ U/D\ repeatedly\n
+comment4.params=
+comment4.target=void\ attack()
+numComments=5

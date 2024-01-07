@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Map
+comment0.text=\n\ Map\ Class\ can\ take\ a\ 2D\ number\ array\ and\ generate\ a\ graphic\ where\ there\ are\ rooms\ and\ hallways\ connecting\ adjacent\ \n\ rooms.\ \n\ \n\ @author\ (Clara\ Hong)\ \n\ @version\ (Jan\ 17th)\n
+comment1.params=map
+comment1.target=Map(int[][])
+comment1.text=\n\ Simple\ Constructor\ for\ Map\n\ @param\ map\ 2D\ number\ array\ of\ the\ world\ map\ to\ generate\ a\ minimap\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ updateMap()
+comment3.text=\n\ Method\ for\ updating\ and\ redrawing\ the\ map\ \n
+comment4.params=
+comment4.target=void\ generateRoomCoordinates()
+comment4.text=\n\ Generates\ coordinates\ for\ the\ room\ to\ properly\ to\ scale\ the\ image\ \n
+comment5.params=
+comment5.target=void\ drawRooms()
+comment5.text=\n\ Draws\ the\ rooms\ and\ their\ orientation\ on\ the\ minimap\n
+comment6.params=
+comment6.target=void\ drawHallways()
+comment6.text=\n\ Draws\ a\ hallway\ that\ connects\ rooms\ if\ a\ hallway\ exists\ \n
+numComments=7

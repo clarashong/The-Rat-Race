@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RangedProjectile
+comment0.text=\n\ Parent\ class\ for\ ranged\ projectiles\n\ \n\ @author\ Marco\ Luong,\ Harishan\ Ganeshanathan\n
+comment1.params=speed
+comment1.target=RangedProjectile(double)
+comment1.text=\n\ Main\ cosntructor\n\ \n\ @param\ speed\ Speed\ of\ which\ the\ projectile\ travels\ at\n
+numComments=2

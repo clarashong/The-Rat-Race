@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EnemyProjectile
+comment0.text=\n\ Projectile\ for\ ranged\ enemy.\n\ \n\ @author\ Marco\ Luong\n
+comment1.params=speed\ buffed\ pX\ pY\ e
+comment1.target=EnemyProjectile(double,\ boolean,\ int,\ int,\ Enemies)
+comment1.text=\n\ Main\ constructor.\n\ \n\ @param\ buffed\ Projectile\ with\ an\ enlarged\ size\n\ @param\ pX\ Player\ x\ coordinate\n\ @param\ pY\ Player\ Y\ coordinate\n\ @param\ e\ The\ enemy\ that\ shot\ the\ projectile\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

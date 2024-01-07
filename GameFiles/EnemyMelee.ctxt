@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EnemyMelee
+comment0.text=\n\ Melee\ attack\ for\ the\ cat\n\ \n\ @author\ Marco\ Luong\n
+comment1.params=attackRange\ e
+comment1.target=EnemyMelee(int,\ Enemies)
+comment1.text=\n\ Main\ constructor\n\ \n\ @param\ e\ Enemy\ that\ spawns\ this\ attack\n
+comment2.params=gw
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

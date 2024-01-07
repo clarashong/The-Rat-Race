@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PlayerMelee
+comment0.text=\n\ Melee\ Attack\ -\ This\ is\ a\ sword\ swing,\ that\ damages\ enemies\ within\ the\ range\ of\ the\ swing.\n\n\ @author\ Harishan\ Ganeshanathan\ &\ Anthony\ Ung\n\ @version\ January\ 17\n
+comment1.params=attackRange\ p
+comment1.target=PlayerMelee(int,\ Player)
+comment1.text=\n\ Simple\ Constructor\n\ @param\ attackRange\ The\ range\ of\ the\ sword\ swing\n\ @param\ p\ The\ player\ that\ the\ sword\ swing\ belongs\ to\n
+comment2.params=
+comment2.target=void\ animateSwing()
+comment2.text=\n\ Simple\ Act\ Method\ -\ Offsets\ attack\ to\ be\ in\ front\ of\ the\ player\ and\ also\ damage\ enemies\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4

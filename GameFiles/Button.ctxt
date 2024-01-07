@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\n\ A\ clickable\ Button\ (made\ in/borrowed\ from\ previous\ group\ simulation\ project)\n\ \n\ @author\ Anthony\ Ung,\ \ Gary\ Niu,\ Arsham\ Zare\ Moayedi\n\ @version\ December\ 1\n
+comment1.params=a\ b
+comment1.target=Button(greenfoot.GreenfootImage,\ greenfoot.GreenfootImage)
+comment1.text=\n\ Constructor\ for\ Button\n\ <p>\n\ Creates\ a\ new\ Button\ object\ with\ a\ normal\ state\ and\ hover\ state\n\ \n\ @param\ a\ The\ normal\ image\ of\ the\ button\n\ @param\ b\ The\ hover\ image\ of\ the\ button\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ listenForClick()
+comment3.text=\n\ Returns\ if\ the\ button\ is\ clicked\n\ \n\ @return\ Button\ clicked\n
+comment4.params=
+comment4.target=boolean\ getClick()
+comment4.text=\n\ Returns\ Click\n\ @return\ boolean\ Click\n
+numComments=5

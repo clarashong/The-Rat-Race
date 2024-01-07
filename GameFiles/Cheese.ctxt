@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cheese
+comment0.text=\n\ Cheeses\ are\ essentially\ powerups\ that\ the\ player\ can\ find.\ Instead\ of\ making\ a\ subclass\ for\ each\ different\ \n\ cheese\ powerup,\ we\ made\ it\ all\ in\ one\ class\ and\ the\ type\ as\ an\ integer\ parameter.\ \n\ <p>\n\ There\ is\ armour\ cheese,\ which\ decreases\ the\ amount\ of\ damage\ a\ player\ takes,\ attack\ cheese,\ which\ increases\ damage,\ \n\ heal\ cheese,\ which\ heals\ health,\ and\ speed\ cheese,\ which\ increases\ speed.\ \n\ \n\ @author\ Clara\ Hong,\ Harishan\ Ganeshanathan\ \n\ @version\ January\ 20\n
+comment1.params=type
+comment1.target=Cheese(int)
+comment1.text=\n\ Constructor\ -\ Sets\ the\ type\ of\ cheese\ and\ its\ corresponding\ image\n\ \n\ @param\ type\ The\ type\ of\ cheese\ passed\ in\ as\ an\ integer\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ Method\ -\ responsible\ for\ the\ actions\ of\ each\ type\ of\ cheese\n
+numComments=3

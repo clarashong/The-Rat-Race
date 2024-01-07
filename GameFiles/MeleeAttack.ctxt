@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MeleeAttack
+comment0.text=\n\ Melee\ parent\ class\ for\ organization\n\ \n\ @author\ Marco\ Luong,\ Harishan\ Ganeshanathan\n
+comment1.params=attackRange
+comment1.target=MeleeAttack(int)
+comment1.text=\n\ Main\ cosntructor\n\n\ @param\ attackRange\ How\ far\ the\ melee\ checks\ for\ contact\n
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PopUp
+comment0.text=\n\ \ PopUps\ will\ decrease\ in\ transparency\ and\ move\ upwards\ \n\ \ and\ are\ removed\ when\ transparency\ gets\ low\ enough.\ \n\ \ Taken\ and\ slightly\ modified\ from\ Animal\ Restaurant\ simulation.\n\ \ \n\ @author\ Joey\ Guan,\ Marco\ Luong\n\ @version\ January\ 19,\ 2023\n
+comment1.params=str\ color
+comment1.target=PopUp(java.lang.String,\ greenfoot.Color)
+comment1.text=\n\ Constructor\ for\ String\ PopUps\n\ \n\ @param\ str\ Text\ to\ draw\n\ @param\ color\ Color\ of\ text\ font\n
+comment2.params=img\ scaleW\ scaleL\ fontSize\ c\ line
+comment2.target=PopUp(greenfoot.GreenfootImage,\ int,\ int,\ int,\ greenfoot.Color,\ java.lang.String)
+comment2.text=\n\ Constructor\ for\ custom\ image\ PopUps\ with\ a\ specified\n\ String\ of\ text\ layered\ on\ it.\n\ \n\ @param\ img\ \ \ \ \ \ \ \ A\ specified\ GreenfootImage\n\ @param\ scaleW\ \ \ \ \ Width\ of\ img\n\ @param\ scaleL\ \ \ \ \ Length\ of\ img\n\ @param\ fontSize\ \ \ Size\ of\ text\n\ @param\ c\ \ \ \ \ \ \ \ \ \ Color\ of\ text\n\ @param\ line\ \ \ \ \ \ \ Text\ that\ you\ want\ to\ show\n\ \n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ Method\ for\ PopUp\n
+numComments=4

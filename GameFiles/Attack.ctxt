@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Attack
+comment0.text=\n\ Superclass\ for\ different\ attacks.\ Mostly\ just\ for\ organization\ to\ keep\ melee\ and\ ranged\ attacks\ together.\ \n\ \n\ @author\ (Harishan\ Ganeshanathan)\ \n\ @version\ (January\ 13)\n
+comment1.params=
+comment1.target=Attack()
+comment1.text=\n\ Constructor\ for\ Attack\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Attack\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

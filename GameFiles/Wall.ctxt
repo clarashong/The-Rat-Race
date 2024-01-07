@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Wall
+comment0.text=\n\ Walls\ surround\ the\ room.\ Players\ cannot\ go\ into\ or\ past\ a\ wall.\ Obstacles\ are\ also\n\ considered\ walls.\ \n\ \n\ @author\ Joey\ Guan,\ Clara\ Hong\ \n\ @version\ January\ 13\n
+comment1.params=type
+comment1.target=Wall(java.lang.String)
+comment1.text=\n\ Simple\ Constructor\ for\ Wall\n\ \n\ @param\ type\ Type\ of\ obstacle,\ decides\ image\ and\ dimensions\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Wall\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

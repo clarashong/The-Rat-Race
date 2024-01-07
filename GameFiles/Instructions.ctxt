@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Instructions
+comment0.text=\n\ Screen\ that\ displays\ the\ controls\ for\ the\ player\n\ \n\ @author\ (Anthony\ Ung)\ \n\ @version\ (January\ 19)\n
+comment1.params=
+comment1.target=Instructions()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Instructions.\n\ \n
+comment2.params=
+comment2.target=void\ started()
+comment3.params=
+comment3.target=void\ stopped()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

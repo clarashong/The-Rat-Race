@@ -1,0 +1,36 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ The\ main\ player\ can\ move\ around,\ dash,\ attack\ and\ switch\ their\ attack\ type\n\ \n\ @author\ Harishan\ Ganeshanathan,\ Anthony\ Ung,\ Joey\ Guan\n\ @version\ January\ 22th,\ 2023\n
+comment1.params=values
+comment1.target=Player(java.lang.String[])
+comment1.text=\n\ Simple\ Constructor\ for\ Player\ to\ set\ values\ through\ parsing\ a\ String\ into\ integers,\ booleans\ and/or\ doubles\n\ @param\ values\ A\ string\ array\ that\ holds\ the\ values\ for\ the\ players\ attack\ type,\ attack\ radius,\ attack\ timer,\ attack\ speed,\ player\ speed,\ attack\ power,\ armour\ and\ health\n
+comment10.params=b
+comment10.target=void\ setAttackStatus(boolean)
+comment10.text=\n\ Sets\ the\ melee\ attack\ status\ of\ the\ player\n\ @param\ b\ Boolean\ that\ determines\ if\ the\ player\ is\ attacking\ or\ not\ \n
+comment11.params=health
+comment11.target=void\ setHealth(double)
+comment11.text=\n\ Sets\ the\ health\ of\ the\ player\ -\ useful\ for\ updating\ health\ after\ picking\ up\ heal\ cheeses\n\ @param\ health\ New\ health\ of\ player.\ \n
+comment2.params=
+comment2.target=void\ addedToWorld()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=void\ movement()
+comment4.text=\n\ Method\ for\ player\ movement\ -\ Note\ that\ players\ cannot\ move\ when\ melee\ attacking\n
+comment5.params=
+comment5.target=void\ attack()
+comment5.text=\n\ Attack\ method\ for\ Player\n
+comment6.params=
+comment6.target=void\ switchAttack()
+comment6.text=\n\ Method\ for\ switching\ between\ ranged\ attack\ and\ melee\ attack\n
+comment7.params=atkDmg
+comment7.target=void\ takeDamage(double)
+comment7.text=\n\ Method\ for\ taking\ damage\n\ @param\ atkDmg\ Damage\ dealt\ to\ player\n
+comment8.params=
+comment8.target=void\ updateHealthBar()
+comment8.text=\n\ Method\ for\ updating\ HealthBar\n
+comment9.params=
+comment9.target=int\ getDirection()
+comment9.text=\n\ Gets\ the\ direction\ that\ the\ player\ is\ facing\ \n\ @return\ int\ Returns\ the\ direction\ as\ an\ int\ value\:\ 1\ \=\ left,\ 2\ \=\ right,\ 3\ \=\ up,\ 4\ \=\ down\n
+numComments=12

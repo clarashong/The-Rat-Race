@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StartScreen
+comment0.text=\n\ Starting\ Screen\ for\ the\ Game\n\ \n\ @author\ Anthony\ Ung,\ Clara\ Hong\ \n\ @version\ January\ 18\n
+comment1.params=
+comment1.target=StartScreen()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ StartScreen.\n\ \n
+comment2.params=
+comment2.target=void\ started()
+comment3.params=
+comment3.target=void\ stopped()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EndScreen
+comment0.text=\n\ End\ Screen\ that\ the\ player\ gets\ switched\ to\ after\ they\ die\ \n\ \n\ @author\ Harishan\ Ganeshanathan,\ Marco\ Luong\n\ @version\ January\ 12\n
+comment1.params=time\ win
+comment1.target=EndScreen(int,\ boolean)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ EndScreen.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
