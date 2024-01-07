@@ -13,29 +13,27 @@ In order for the game to be able to choose the solution word, users must have Gr
 Greenfoot can be installed at:
 [https://www.greenfoot.org/download](https://www.greenfoot.org/download) 
 \
-Once installed, open Greenfoot, click Scenario >> open >> choose folder: HongClaraKirbyStarDefense
+Once installed, open Greenfoot, click Scenario >> open >> choose folder: GameFiles
 \
 To play the game, click Run. 
 
 ## GamePlay 
-Shoot the enemies with your stars: 
+Game key instructions can be found after the story slides: 
 \
-<img src="GameShots/GamePlay.png" alt="drawing" width="300"/> 
+<img src="GameShots/Instructions.png" alt="drawing" width="300"/> 
 \
-Survive each wave and watch out for the Big Boss!: 
+Go through the rooms of the hotel and fight all the enemies!: 
 \
-<img src="GameShots/Boss.png" alt="drawing" width="300"/>
+<img src="GameShots/GamePlay.png" alt="drawing" width="300"/>
 \
-If your ores run out of health: \
+If you don't make it: \
 <img src="GameShots/Lose.png" alt="drawing" width="300"/>
 
-## License
-Kirby and its universe's characters belong to Nintendo and HAL's Labratory
 
 ## Image and Sound Credits: 
-Image and sound credits can be found in GameFiles >> HongClaraKirbyStarDefense >> "GameWorld.java" 
+Graphics were done by Clara and Anthony. 
+Image and sound credits can be found in the starting comments of GameFiles >> "GameWorld.java"
 
 ## How to Contribute
-
 Not accepting contributions. 
 
